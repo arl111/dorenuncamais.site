@@ -40,12 +40,22 @@ body {
   font-size: 16px;
 }
 
-.conf {
+/*.conf {
   font-size: 44px;
   width: 100%;
-  text-shadow: #FF0000 0px /*esquerda*/ 0px /*baixo*/ 20px/*espalha*/;
+  text-shadow: #FF0000 0px /*esquerda 0px /*baixo 20px/*espalha;
   text-align: center;
   text-decoration: underline overline;
+}*/
+
+.img-teste {
+  position:relative;
+  text-align: center;
+}
+
+.com-teste {
+  position:relative;
+  text-align: center;
 }
 
 .my-4 {
@@ -118,23 +128,6 @@ body {
       /*text-shadow: #000000 0px 1px 0px;*/
       text-decoration: none;
     }
-    /* .span-btn2 {
-      -webkit-font-smoothing: antialiased; 
-      text-align: center;
-      padding: 0; border: 0;
-      font: inherit; 
-      vertical-align: baseline; 
-      display: block; 
-      position: relative;
-      z-index: 1; 
-      margin: .2em 0 -.5em; 
-      font-size: 15px; 
-      color: #f5e051; 
-      font-family: Cabin; 
-      font-weight: bold; 
-      font-style: italic;
-      text-shadow: #000000 0px 1px 0px;
-    } */
 
 .texto {
   font-size: 12px;
