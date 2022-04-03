@@ -3,13 +3,6 @@
   [class*="col-"] {
     width: 100%;
   }
-    .conf {
-  font-size: 36px;
-  width: 100%;
-  text-shadow: #FF0000 0px /*esquerda*/ 0px /*baixo*/ 5px/*espalha*/;
-  text-align: center;
-  text-decoration: underline overline;
-}
   }
 
 
@@ -48,8 +41,6 @@ body {
   text-align: center;
   text-decoration: underline;
 }
-
-<style>.animado{animation:pulse 1s infinite;}</style>
 
 .mt-4 {
   text-align: center;
