@@ -1,0 +1,37 @@
+[OK] https://fb.me/1UfRSWvQn1D82pS
+[OK] https://fb.me/1L18WAtSmCnlquy
+[OK] https://fb.me/1KaOM0Z0RmOTeh5
+
+- github.com
+- https://dash.cloudflare.com/login
+- https://app-vlc.hotmart.com/products/manage/2071676/overview
+
+- https://www.youtube.com/watch?v=1KsbrlLQknA - pixel - 9:48
+- https://www.youtube.com/watch?v=FWIWKi7xRC0 - dominio
+
+[OK] VERIFICAR DOMINIO
+bm - configurações do negócio - segurança da marca - dominios - adicionar "dorenuncamais.site" - [baixar html - github] - verificar - linkar ativos - ferramentas - gerenciador de eventos
+
+PIXEL
+configurações do negocio - fontes de dados - pixels - adicionar - [nome] - continuar - adicionar pessoas - adicionar CA - copiar ID - HOTMART - ferramentas - pixel de rastreamento - facebook - [numero] - visitas+vendas, somente cartão
+- cadastrar domínio (via WEB, cloudflare - nome: pixel.site / tipo: cname / registro: pixel.hotmart) - otimizar - FACEBOOK BM - mensuração de eventos agregados (configurar) - pixel + evento compra [Importancia: compra -
+inicio final compra - add carrinho - pesquisar - vizualização] - [configurar via API] - BM pixel - configurações - API de conversões - token - hotmart
+
+TESTE
+BM - pixel - eventos de teste - checkout
+
+LINK HOTMART
+https://pay.hotmart.com/[CODIGO_PRODUTO_hotmart]?pixel_event_test_api=[CODIGO_TESTE_fb] = link checkout
+
+Entenda de uma vez por todas o motivo por trás das suas dores nas costas. Afinal, antes de tratar precisamos saber do que sofremos. 
+Aprenda exercícios de 3 minutos por dia para fortificar sua coluna e solucionar as dores.
+Caso não saiba mexer na plataforma, não tem problema! Temos um vídeo mostrando passo a passo de como acessar os conteúdos com poucos cliques.
+Além de tudo isso, o Dores Nunca Mais: O Guia Completo conta com, nada mais nada menos que cinco bônus exclusivos para potencializar ainda mais seu tratamento. São eles:
+1. 8 chás caseiros para alívio certeiro das dores;
+2. Como seu pé pode acabar com suas dores nas costas;
+3. Uma boa noite de sono sem dores nas costas
+4. [Especial] 5 alimentos que ajudam a prevenir suas dores
+5. [Especial] Como uma bola de tênis pode eliminar as dores nas costas
+
+Não deixe que coisas piores aconteçam, sua coluna merece o melhor.
+Equipe DNM
